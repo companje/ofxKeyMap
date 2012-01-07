@@ -1,1 +1,10 @@
+ofxKeyMap.h
+
 openFrameworks addon for keeping track of pressed keys
+
+Since OF007 this feature is part of OF.
+You can now use ofGetKeyPressed(key) instead.
+
+By Rick Companje
+Created: 2009.09.17
+Last modified: 2011.12.16
